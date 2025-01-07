@@ -1,0 +1,26 @@
+html{
+    font-size: 30px;
+}
+
+#div1{
+    height: 4rem;
+    width: 6rem;
+    /* height: 75vh;
+    width: 100vw; */
+    /* height: 200px; */
+    /* width: 200px; */
+    background-color: red;
+    background-color: rgb(63, 204, 138);
+    background-color: #9aff4a;
+    background-color: rgba(63, 204, 138,0.4);
+    background-color: hsl(205, 17%, 61%);
+    background-color: hsla(205, 17%, 61%,0.5);
+
+}
+
+#div2{
+    height: 50%;
+    width: 50%;
+    background-color: rgb(51, 167, 167);
+
+}
